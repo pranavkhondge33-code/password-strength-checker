@@ -19,9 +19,3 @@ A Python-based password strength checker that evaluates password complexity base
 
 - Python
 - pwinput
-## Installation
-
-Clone the repository:
-
-```bash
-git clone YOUR_REPOSITORY_URL
